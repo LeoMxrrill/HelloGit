@@ -12,5 +12,7 @@ public class Hello {
 		public static void main(String args[]) {
 			System.out.println("Leo Merrill!");
 			System.out.println("Computer Science");
+			System.out.println("Alex Busch");
+			System.out.println("Computer Science");
 		}
 }
